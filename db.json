@@ -1,14 +1,7 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "title":"Android Jetpack: EmojiCompat",
+    "description":"Android Jetpack: EmojiCompat",
+    "url":"https://www.youtube.com/watch?v=sYGKUtM2ga8",
+    "updated":"2018-06-07T17:09:43+00:00",
+    "thumbnail":"https://i4.ytimg.com/vi/sYGKUtM2ga8/hqdefault.jpg"
 }
