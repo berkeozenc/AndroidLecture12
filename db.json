@@ -6,6 +6,48 @@
         "family": "Rosaceae",
         "origin": "Central Asia",
         "image_url": "https://example.com/images/apple.jpg"
+    },
+    {
+        "name": "Banana",
+        "scientific_name": "Musa",
+        "family": "Musaceae",
+        "origin": "Southeast Asia",
+        "image_url": "https://example.com/images/banana.jpg"
+    },
+    {
+        "name": "Orange",
+        "scientific_name": "Citrus × sinensis",
+        "family": "Rutaceae",
+        "origin": "China",
+        "image_url": "https://example.com/images/orange.jpg"
+    },
+    {
+        "name": "Strawberry",
+        "scientific_name": "Fragaria × ananassa",
+        "family": "Rosaceae",
+        "origin": "France",
+        "image_url": "https://example.com/images/strawberry.jpg"
+    },
+    {
+        "name": "Blueberry",
+        "scientific_name": "Cyanococcus",
+        "family": "Ericaceae",
+        "origin": "North America",
+        "image_url": "https://example.com/images/blueberry.jpg"
+    },
+    {
+        "name": "Mango",
+        "scientific_name": "Mangifera indica",
+        "family": "Anacardiaceae",
+        "origin": "South Asia",
+        "image_url": "https://example.com/images/mango.jpg"
+    },
+    {
+        "name": "Pineapple",
+        "scientific_name": "Ananas comosus",
+        "family": "Bromeliaceae",
+        "origin": "South America",
+        "image_url": "https://example.com/images/pineapple.jpg"
     }
     ]
 }
