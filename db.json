@@ -15,7 +15,6 @@
             "vitamin_c": "7%",
             "vitamin_k": "2%"
         },
-        "description": "Apples are sweet, edible fruits produced by an apple tree. Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus.",
         "image_url": "https://example.com/images/apple.jpg"
     },
     {
@@ -33,7 +32,6 @@
             "vitamin_c": "14%",
             "vitamin_b6": "20%"
         },
-        "description": "Bananas are one of the most popular fruits worldwide. They contain essential nutrients that can have a protective impact on health.",
         "image_url": "https://example.com/images/banana.jpg"
     },
     {
@@ -51,7 +49,6 @@
             "vitamin_c": "89%",
             "vitamin_a": "4%"
         },
-        "description": "Oranges are a type of low calorie, highly nutritious citrus fruit. As part of a healthy and varied diet, they contribute to strong clear skin and can help to lower the risk of many conditions.",
         "image_url": "https://example.com/images/orange.jpg"
     },
     {
@@ -69,7 +66,6 @@
             "vitamin_c": "59%",
             "manganese": "19%"
         },
-        "description": "Strawberries are bright red, juicy, and sweet. They are an excellent source of vitamin C and manganese and also contain decent amounts of folate (vitamin B9) and potassium.",
         "image_url": "https://example.com/images/strawberry.jpg"
     },
     {
@@ -87,7 +83,6 @@
             "vitamin_c": "16%",
             "vitamin_k": "24%"
         },
-        "description": "Blueberries are sweet, nutritious, and wildly popular. Often labeled a superfood, they are low in calories and incredibly good for you.",
         "image_url": "https://example.com/images/blueberry.jpg"
     },
     {
@@ -105,7 +100,6 @@
             "vitamin_c": "44%",
             "vitamin_a": "10%"
         },
-        "description": "Mangoes are juicy stone fruit from numerous species of tropical trees. They are known for their sweet taste and are a rich source of vitamins A and C.",
         "image_url": "https://example.com/images/mango.jpg"
     },
     {
@@ -123,7 +117,6 @@
             "vitamin_c": "80%",
             "vitamin_b6": "5%"
         },
-        "description": "Pineapples are tropical fruit that are rich in vitamins, enzymes, and antioxidants. They may help boost the immune system, build strong bones, and aid indigestion.",
         "image_url": "https://example.com/images/pineapple.jpg"
     }
     ]
