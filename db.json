@@ -5,16 +5,6 @@
         "scientific_name": "Malus domestica",
         "family": "Rosaceae",
         "origin": "Central Asia",
-        "nutritional_value": {
-            "calories": 52,
-            "protein": "0.3g",
-            "fat": "0.2g",
-            "carbohydrates": "14g",
-            "fiber": "2.4g",
-            "sugars": "10g",
-            "vitamin_c": "7%",
-            "vitamin_k": "2%"
-        },
         "image_url": "https://example.com/images/apple.jpg"
     }
     ]
