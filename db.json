@@ -16,40 +16,6 @@
             "vitamin_k": "2%"
         },
         "image_url": "https://example.com/images/apple.jpg"
-    },
-    {
-        "name": "Banana",
-        "scientific_name": "Musa",
-        "family": "Musaceae",
-        "origin": "Southeast Asia",
-        "nutritional_value": {
-            "calories": 89,
-            "protein": "1.1g",
-            "fat": "0.3g",
-            "carbohydrates": "23g",
-            "fiber": "2.6g",
-            "sugars": "12g",
-            "vitamin_c": "14%",
-            "vitamin_b6": "20%"
-        },
-        "image_url": "https://example.com/images/banana.jpg"
-    },
-    {
-        "name": "Orange",
-        "scientific_name": "Citrus × sinensis",
-        "family": "Rutaceae",
-        "origin": "China",
-        "nutritional_value": {
-            "calories": 47,
-            "protein": "0.9g",
-            "fat": "0.1g",
-            "carbohydrates": "12g",
-            "fiber": "2.4g",
-            "sugars": "9g",
-            "vitamin_c": "89%",
-            "vitamin_a": "4%"
-        },
-        "image_url": "https://example.com/images/orange.jpg"
     }
     ]
 }
